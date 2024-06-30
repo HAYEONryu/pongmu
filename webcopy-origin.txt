@@ -374,10 +374,6 @@ Uri: https://cdn.imweb.me/thumbnail/20240130/f7a2d6d35badc.jpg
 File Name: C:\Downloaded Web Sites\김포풍무역-푸르지오시티.com\thumbnail\20240130\f7a2d6d35badc.jpg
 Content Type: image/jpeg
 
-Uri: https://cdn.imweb.me/thumbnail/20240130/ff128fe9e54cc.png
-File Name: C:\Downloaded Web Sites\김포풍무역-푸르지오시티.com\thumbnail\20240130\ff128fe9e54cc.png
-Content Type: image/png
-
 Uri: https://cdn.imweb.me/thumbnail/20240429/5f7b925cb2772.png
 File Name: C:\Downloaded Web Sites\김포풍무역-푸르지오시티.com\thumbnail\20240429\5f7b925cb2772.png
 Content Type: image/png
